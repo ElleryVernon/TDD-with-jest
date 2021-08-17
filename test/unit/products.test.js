@@ -3,6 +3,5 @@ test("two plus two is four", () => {
 });
 
 test("two plus two is not five", () => {
-    expect(2 + 2).not.toBe(5);
-  });
-  
+  expect(2 + 2).not.toBe(5);
+});
