@@ -1,0 +1,20 @@
+{
+  "name": "tdd-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ElleryVernon (Han Seong-Min)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "node-mocks-http": "^1.10.1",
+    "supertest": "^6.1.5"
+  }
+}
